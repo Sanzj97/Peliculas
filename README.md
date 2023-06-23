@@ -4,5 +4,5 @@ Integrantes:
 
 
 <div align="center">
-  <img src="https://github.com/Sanzj97/Movies/blob/master/app/src/main/res/drawable/android.png?raw=true" alt="Icon" width="75%" />
+  <img src="https://github.com/Sanzj97/Peliculas/blob/master/app/src/main/res/drawable/android.png?raw=true" alt="Icon" width="75%" />
 </div>
