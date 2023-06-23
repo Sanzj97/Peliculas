@@ -1,4 +1,4 @@
-# Movies
+# Peliculas
 Integrantes:
 - Winston Joel Aburto Sanchez
 
